@@ -6,4 +6,4 @@
 - Prettier
 - eslint
 - NextJS
-- ShadCDN
+- shadcnui
